@@ -20,3 +20,5 @@ print(name + "는" + str(age) , "이다")
 print(name , "는" , age , "이다")
 print(name , "는" , str(age) + "이다")
 print(name + "는" + str(age) + "이다")
+print(name + "는" + str(age) + "이다")
+
